@@ -1,0 +1,10 @@
+/**
+ *	<%= pluginName %>.
+ *	jQuery required.
+ *	
+ *	* Copyright <%= grunt.template.today("yyyy") %> (c) kamem
+ *	* http://develo.org/
+ *	* Licensed Under the MIT.
+ *	
+ *	Date: <%= grunt.template.today("yyyy.mm.dd") %>
+ */
